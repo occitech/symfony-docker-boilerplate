@@ -2,10 +2,11 @@
 
 ## Getting Started
 
-1. Build : run `make build`
-2. Start : run `make start`
-3. Open `https://localhost` in your favorite web browser and [accept the auto-generated TLS certificate](https://stackoverflow.com/a/15076602/1352334)
-4. Run `make stop` to stop the Docker containers.
+1. Copy : run `make copy`
+2. Build : run `make build`
+3. Start : run `make start`
+4. Open `https://localhost` in your favorite web browser and [accept the auto-generated TLS certificate](https://stackoverflow.com/a/15076602/1352334)
+5. Run `make stop` to stop the Docker containers.
 
 ## Tests
 

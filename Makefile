@@ -1,3 +1,6 @@
+copy:
+	@cp phpunit.dist.xml phpunit.xml
+
 build: 
 	@docker-compose build --pull --no-cache
 
